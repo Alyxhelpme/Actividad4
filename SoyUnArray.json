@@ -1,4 +1,4 @@
 //name: , price:
 
-nombres = ["nachitos","heladito","cloroformo","toxina botulinica","gas Sarín"]
-precios = ["69","120","891.25","12,000","120,000"]
+[{'nombre': nachitos ,'precio': 69},{'nombre': heladitos ,'precio': 120},{'nombre': toxina botulinica, 'precio': 12000},{'nombre': cloroformo, 'precio': 891.25},
+ {'nombre': gas Sarín ,'precio': 120000}]
